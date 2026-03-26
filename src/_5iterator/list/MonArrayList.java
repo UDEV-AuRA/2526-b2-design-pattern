@@ -1,6 +1,6 @@
-package _05iterator.list;
+package _5iterator.list;
 
-import _05iterator.Iterable;
+import _5iterator.Iterable;
 
 public class MonArrayList implements Iterable {
 

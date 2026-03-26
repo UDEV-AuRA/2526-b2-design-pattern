@@ -1,8 +1,8 @@
-package _05iterator;
+package _5iterator;
 
-import _05iterator.arbre.MonArbre;
-import _05iterator.list.MonArrayList;
-import _05iterator.list.MonArrayListIterator;
+import _5iterator.arbre.MonArbre;
+import _5iterator.list.MonArrayList;
+import _5iterator.list.MonArrayListIterator;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package _05iterator.arbre;
+package _5iterator.arbre;
 
-import _05iterator.Iterable;
+import _5iterator.Iterable;
 
 public class MonArbre implements Iterable {
   private MonArbre filsGauche;

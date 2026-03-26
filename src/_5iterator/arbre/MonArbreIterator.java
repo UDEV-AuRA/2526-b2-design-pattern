@@ -1,6 +1,6 @@
-package _05iterator.arbre;
+package _5iterator.arbre;
 
-import _05iterator.Iterator;
+import _5iterator.Iterator;
 
 import java.util.ArrayList;
 import java.util.List;
